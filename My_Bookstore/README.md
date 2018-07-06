@@ -14,3 +14,7 @@ Through the app, the user can perform the following tasks:
   5. Delete an existing record
 
 The graphical user interface is created using tkiner, and the database is created using sqlite3. 
+
+To run the app: 
+  python bookstore_frontend.py
+or run the executable.
